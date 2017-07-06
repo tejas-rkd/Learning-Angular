@@ -1,2 +1,2 @@
 # Learning-Angular
-Pluralinsight Course
+Pluralsight Course
